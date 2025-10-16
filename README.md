@@ -1,4 +1,4 @@
-# 👋 Olá, seja bem-vindo(a)!
+# 👋 Olá!
 
 Meu nome é João Lucas e sou um desenvolvedor .NET brasileiro apaixonado por astronomia e tecnologia. Aqui no meu GitHub, guardo projetos profissionais, estudos e experimentos relacionados ao meu dia a dia como desenvolvedor.
 
