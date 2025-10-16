@@ -19,18 +19,3 @@ Meu nome é João Lucas e sou um desenvolvedor .NET brasileiro apaixonado por as
 ### 🔄 Controle de Versão e Colaboração
 - **Git** – Versionamento de código, ramificações, merges e histórico de mudanças.
 - **GitHub** – Hospedagem de repositórios, colaboração com outros devs e gerenciamento de issues/pull requests.
-
-## 🚀 Sobre meus projetos
-
-Aqui no GitHub, você vai encontrar repositórios com:
-- Ferramentas e aplicações desenvolvidas em VB.NET
-- Estudos e experimentos com Vue.js e outras tecnologias web
-- Scripts e utilitários diversos para automação e produtividade
-- Repositórios com foco em aprendizado e prática de boas práticas de desenvolvimento
-
-## 📫 Vamos nos conectar?
-
-Sinta-se à vontade para explorar meus projetos, deixar sugestões ou entrar em contato para trocarmos experiências:
-
-- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/joao-aloca-dev/))
-- Email: joao.aloca@outlook.com
