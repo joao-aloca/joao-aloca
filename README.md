@@ -34,7 +34,3 @@ Sinta-se à vontade para explorar meus projetos, deixar sugestões ou entrar em 
 
 - [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/joao-aloca-dev/))
 - Email: joao.aloca@outlook.com
-
----
-
-⭐ Se algum projeto te ajudou, considere deixar uma estrela ou um fork. Toda colaboração é bem-vinda!
