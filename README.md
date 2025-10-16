@@ -5,7 +5,7 @@ Meu nome é João Lucas e sou um desenvolvedor .NET brasileiro apaixonado por as
 ## 🧠 Tecnologias e Conhecimentos
 
 ### 💻 Backend e Desenvolvimento .NET
-- **VB.NET** – Linguagem principal utilizada em diversos projetos legados e corporativos.
+- **VB.NET** – Linguagem principal utilizada em diversos projetos.
 - **.NET Framework / .NET Core** – Desenvolvimento de aplicações desktop.
 
 ### 🌐 Frontend e Desenvolvimento Web
